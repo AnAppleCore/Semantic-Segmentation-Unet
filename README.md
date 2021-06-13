@@ -48,4 +48,5 @@ Since the network is relatively large, I have tried to simplify it a little bit 
 ## Reference 
 
 Thanks to github repository https://github.com/hoya012/semantic-segmentation-tutorial-pytorch, I used its interface and training tricks
+
 Thanks to github repository https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/image_segmentation/semantic_segmentation_unet, I have studied its network architecture
