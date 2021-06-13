@@ -40,7 +40,7 @@ Type the following command to predict on the test set (it will automatically fet
 
 ### Result
 
-Since the network is relatively large, I have tried to simplify it a little bit so that we can train it faster. See the model details in ```model.py``` file. And we can find the results in ```log_epoch.csv```. Here's the best resuls.
+Since the network is relatively large, I have tried to simplify it a little bit so that we can train it faster. See the model details in ```model.py``` file. And we can find the results in ```log_epoch.csv```. Here's the results (after 2 epoch).
 
         epoch, train loss, val loss, train acc, val acc, miou
         1, 0.68217, 0.72684, 1.23130, 1.23180, 0.22013
